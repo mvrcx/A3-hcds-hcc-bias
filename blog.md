@@ -14,8 +14,9 @@ There is a Video?? Research ethics plays a fundamental role, especially when pub
 ### ❓&nbsp; Questions
 _Using full sentences, list at least one question that this video raised in your mind, and say why it caused you to ask this question_
 
-1. Is there a way to scientifically prove the impartiality of such an algorithm? Where is the boundary between empirical observations and questionable decisions and categorizations of the system
-1. dfd
+1. Is there a way to scientifically prove the impartiality of such an algorithm? Can we demolish the boundary between empirical observations and questionable decisions and categorizations of the system?
+1. More transparency inevitably means a longer development time. When is a system transparent enough to be free of prejudices and bias? 
+1. How to take the pressure off the development team in order to enable the selection of suitable data as the basis of bigger data science projects?
 
 ***
 
