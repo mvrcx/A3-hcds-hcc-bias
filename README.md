@@ -71,7 +71,7 @@ peotry for dependency management, Jupyter Notebook, Python 3.8
 
 ## 5. License
 
-The project is licensed under [MIT.license](https://github.com/mvrcx/A3-hcds-hcc-bias/blob/main/LICENSE).
+The project is licensed under [MIT.license](https://github.com/mvrcx/A3-hcds-hcc-bias/blob/main/LICENSE.md).
 
 
 
